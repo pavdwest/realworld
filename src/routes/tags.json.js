@@ -10,7 +10,8 @@ export async function get() {
 	// minutes (`max-age=300`) to improve performance
 	return {
 		headers: {
-			'cache-control': 'public, max-age=300'
+			// 'cache-control': 'public, max-age=300'
+			'cache-control': 'public, max-age=5'
 		},
 		body: {
 			tags: tags.filter((tag) => /^[a-z]+$/i.test(tag))

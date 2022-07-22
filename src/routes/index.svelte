@@ -31,15 +31,15 @@
 </script>
 
 <svelte:head>
-	<title>Conduit</title>
+	<title>purerformance</title>
 </svelte:head>
 
 <div class="home-page">
 	{#if !$session.user}
 		<div class="banner">
 			<div class="container">
-				<h1 class="logo-font">conduit</h1>
-				<p>A place to share your knowledge.</p>
+				<h1 class="logo-font">pureformance</h1>
+				<p>Perfect portfolio performance at scale</p>
 			</div>
 		</div>
 	{/if}

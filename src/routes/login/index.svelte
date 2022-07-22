@@ -35,7 +35,7 @@
 </script>
 
 <svelte:head>
-	<title>Sign in • Conduit</title>
+	<title>Sign in • pureformance</title>
 </svelte:head>
 
 <div class="auth-page">

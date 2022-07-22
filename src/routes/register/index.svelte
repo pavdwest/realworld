@@ -32,7 +32,7 @@
 </script>
 
 <svelte:head>
-	<title>Sign up • Conduit</title>
+	<title>Sign up • pureformance</title>
 </svelte:head>
 
 <div class="auth-page">
